@@ -1,0 +1,32 @@
+E:\installedApp\Anaconda3\python.exe D:/work/workspace/xuetangzaixian/xtzx_crawler_requests.py
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/2640b90a1bfc484c85e0628fa6cd309c/6c5ba8b5a721406f8dc8601641c5c24d/', '第一节 中国建筑概说 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/2640b90a1bfc484c85e0628fa6cd309c/91dd676764454041ae5d11ace9cf21d3/', '第二节 中国古代建筑思想概说 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/349fc4291ed04aba85bf5c53651e1ee9/c3a7bb334fdb43a6a14c268c99e0fcda/', '第一节 史前及夏商周时期的中国建筑 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/349fc4291ed04aba85bf5c53651e1ee9/6b873420d582462897a12effd5920460/', '第二节 秦汉时期的中国建筑 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/021548facfac4fcbac0c0ad07a94626b/b3d05baaa4a747c7943b9747250a8ca7/', '第一节 城市宫殿与佛教建筑 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/021548facfac4fcbac0c0ad07a94626b/5102ab303a2640a5b690df001daa13c9/', '第二节 佛教建筑石窟寺与园林 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/52b77d6ee6cc462caaf2d2edcd24e7da/1cf3cc7501714bfdb231e0b4097f292e/', '第一节 隋唐时期的城市与住宅 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/52b77d6ee6cc462caaf2d2edcd24e7da/3baad6d60f7d42829e08272a9ceadeff/', '第二节 隋唐时期的宫殿与园林 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/f430e3e279b84421bf1c545bbc40e872/5f0fe9146b7e41189d3b05d2a0317a9a/', '第一节 隋唐时期的宗教建筑与主要遗存 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/f430e3e279b84421bf1c545bbc40e872/056ad1ccce8a4216a8a97066b1645cc8/', '第二节 隋唐时期的建筑技术与艺术 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/23d103e694c54ccc93bb9eee6e291eea/146be6308e9a4c319adfe2bbac2b3dd3/', '第一节 五代两宋辽金时期的城市 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/23d103e694c54ccc93bb9eee6e291eea/0a2d027307a04c2b9e7b93468ebd132f/', '第二节 五代两宋辽金时期的宫殿与苑囿 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/457640a5eb9c4afb88190b92eca0bbd0/a407a7fb3c8b4415a90e76e29d4aaa59/', '第一节 五代两宋辽金单檐木构建筑 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/457640a5eb9c4afb88190b92eca0bbd0/21f4eabfab31461ea58989bb84f24e12/', '第二节 五代两宋辽金木构建筑 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/8e8d6c5f188d43b99092ddc5b63c3742/72f3b19255d5486194b7923a706c2795/', '第一节 五代两宋辽金时期佛塔遗存 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/8e8d6c5f188d43b99092ddc5b63c3742/a663a0009d3841babf50c928a6e36dfe/', '第二节 宋《营造法式》与两宋辽金建筑讨论 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/1532699977ef42d98e5d0f798703c361/c0658d0554624911b503de6c4e7df806/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/1532699977ef42d98e5d0f798703c361/8c31fea1723f463e90aa4da844e93210/', '第二节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/02e6a50dea554e97a221ef855a02c829/f5e7e5ca9f4340d68e9dff61ab9a42ea/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/02e6a50dea554e97a221ef855a02c829/37e41dada617450a8e7242bca053be76/', '第二节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/c9ba915ae6b8415d92917449fa599cf1/3d60976741e542e2a5adc3aed668c78b/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/c9ba915ae6b8415d92917449fa599cf1/4187dfd7e4f6471585f4df17a61bde4a/', '第二节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/c9ba915ae6b8415d92917449fa599cf1/de99855770244da38d47eeb9bcae296b/', '第三节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/9e7a3a70b521442e8b8f1d8d79b07eb9/c78a5623607f4d209bfd4c06d33546b7/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/9e7a3a70b521442e8b8f1d8d79b07eb9/0a3eba6215924c17951d30429d1ccfb6/', '第二节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/fe27447f02f34bf3a2a1fdf8041d2718/ebecc93872fe47bc80c201216ba559ae/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/fe27447f02f34bf3a2a1fdf8041d2718/c52bc34b980441c88b752a4ded0f4eb6/', '第二节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/fe27447f02f34bf3a2a1fdf8041d2718/5e9f456ea9ce44b582b4dba62df94081/', '第三节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/42b41085b7604cccae4ae64b58f03e0e/d260bf7879d34ef3ae48eb3f58f3e007/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/42b41085b7604cccae4ae64b58f03e0e/eb3ae6b0d8404176ba0408d7418db8cb/', '第二节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/224d7816be084c1d8a7491094e6e5521/afb2449eacd44a55b80d96d2b9d2c045/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/224d7816be084c1d8a7491094e6e5521/609ddf1a887e4a01a9802dc8988c79db/', '第二节 ')]
+[('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/d06f0621971a4e3b83a43445bc122a5e/18e5050821aa41a88fcc1a29ce416f02/', '第一节 '), ('/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/d06f0621971a4e3b83a43445bc122a5e/5f71eccdf67949e492f1ab09b3818e87/', '第二节 ')]
+
+Process finished with exit code 0
+
+
+http://www.xuetangx.com/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/2640b90a1bfc484c85e0628fa6cd309c/6c5ba8b5a721406f8dc8601641c5c24d/
+
+Cookie:gr_user_id=f318d025-4634-4c91-a4c3-b36990d8ff02; UM_distinctid=15d3a92205cbd0-013de5e8d284ec-474a0521-1fa400-15d3a92205da73; ajs_anonymous_id=%22cec917be-0a04-4f66-b2f8-f4da5161bf26%22; aliyungf_tc=AQAAAAAWtzcJogcA//ImG1AycyioPI/D; edxloggedin=true; sharesessionid=cfb14f69094d13883d1054bed8c98833; sessionid=cfb14f69094d13883d1054bed8c98833; csrftoken=XrjnuZ6kWoqtqFJT9WdcWOC0JVHHPB2j; frontendUserTrack=88646; ajs_group_id=null; CNZZDATA1261596198=1616627485-1499925309-null%7C1500007017; ajs_user_id=%227171193%22; gr_session_id_a6b8a3dfa84a2afd=4bd95ba2-9170-468c-84c3-1158848b6c95; sequence=116; frontendUserTrackPrev=88646; frontendUserReferrer=http://www.xuetangx.com/courses/course-v1:TsinghuaX+80000901_tv+2015_T1/courseware/2640b90a1bfc484c85e0628fa6cd309c/6c5ba8b5a721406f8dc8601641c5c24d/; user_id=7171193; _log_user_id=50e388e4191c892860a147598e9276f6
+
+视频所在的请求：http://www.xuetangx.com/videoid2source/9521FA686A2674119C33DC5901307461
+		http://www.xuetangx.com/videoid2source/568F3922F5D1EBE59C33DC590130
+
+
+3D0720FA67A4E59E9C33DC5901307461
+D374A250DDCF8C079C33DC5901307461
+568F3922F5D1EBE59C33DC5901307461

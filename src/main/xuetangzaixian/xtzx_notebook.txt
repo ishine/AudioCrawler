@@ -1,0 +1,36 @@
+1、使用ffmpeg将视频中的音频提取出来
+C:\Users\Administrator\Desktop>ffmpeg -i 000.mp4 -vn -ar 44100 -ac 2 -ab 192 -f wav 11
+参考：
+2、从视频抽出声音，并存为Mp3
+   ffmpeg -i source_video.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 sound.mp3 #http://blog.csdn.net/mousedogtiger/article/details/45112593
+
+3、视频地址：
+http://ws.cdn.xuetangx.com/071457014c79ae1c-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/d2b40209de1fcecd-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/1d8fbcc6035b2b52-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/c0dfbe0b322bf038-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/4da77bcf3e7933f7-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/cee5f989f94869cf-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+http://ws.cdn.xuetangx.com/d35636dd1f09c1fb-20.mp4?utm_xuetangx=P5Dgn3rg06F3sS3E
+
+由于重点在于从视频中提取音频，所以这里只处理以上7个视频，应该有1h了吧。
+字幕文件需要根据视频地址post一个表单数据。
+将提取出来的音频文件合并为一个，字幕也是搞成一个，主要在于抓取。
+
+课程主页：
+http://www.xuetangx.com/courses/course-v1:UST+UST001+sp/courseware/3ee4a501adc544a6a3a88059226be557/
+
+
+有点困难，看来要用selenium和phantomJS才行啊。
+
+参考：
+1、下载视频中断的解决方法：
+http://blog.csdn.net/freeking101/article/details/62227161?locationNum=15&fps=1
+
+2、合并音频
+（1）ffmpeg -i INPUT -i INPUT -i INPUT output   #http://www.cnblogs.com/pengkunfan/p/3523285.html，不行，
+（2）还好之前在小麦听书搞过，有印象，在看一遍将代码学会，哈哈哈。终于等到你啊。
+    pydub库    http://blog.csdn.net/gent__chen/article/details/52931728
+（3）使用pydub老是出现memory的错误，所以只有使用ffmpeg解决，参考：https://zhidao.baidu.com/question/743968542139502852.html
+C:\Users\Administrator\Desktop\video2audio>ffmpeg -f concat -i list.txt -c copy all
+.mp3
